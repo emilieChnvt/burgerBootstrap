@@ -1,9 +1,10 @@
 .sushi {
-    color: white
-    background-color: darkgreen;
+
+
     display: flex;
     justify-content: space-between;
 }
+
 .le{
 
 }
